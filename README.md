@@ -20,6 +20,7 @@
 ##   After launching R, issue one of the following R commands
 
  source("http://datayyy.com/rpy/week1.txt")
+ 
  source("http://datayyy.com/rpy/week2.txt")
 
      ...  ...   .....
