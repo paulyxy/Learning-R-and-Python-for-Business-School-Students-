@@ -1,8 +1,12 @@
 # Learning R and Python for Business School Students
    Author: Yuxing Yan
+   
    Publisher: Cambridge Scholars Publishing
+   
    Link :   https://www.cambridgescholars.com/product/978-1-5275-9018-2
+   
    Preface: https://www.cambridgescholars.com/resources/pdfs/978-1-5275-9018-2-sample.pdf
+   
    Contact: paulyxy@gmail.com
 
 ## Two related papers 
